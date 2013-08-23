@@ -14,19 +14,24 @@ Na página de edição de posts ou páginas, adicione o código a seguir:
 
 Substitua `seu-evento` pelo slug que o Eventick gerou para seu evento.
 
-## Adicionando o botão do Eventick
+## Adicionando o botão
 
 	[eventick url="http://eventick.com.br/seu-evento" type="button"]
 
-## Adicionando a venda de ingressos do Eventick
+## Adicionando o box de venda de ingressos
 
 	[eventick url="http://eventick.com.br/seu-evento" type="tickets"]
 
 ## Configurações disponíveis
 
-1. **width:** largura do box de venda de ingressos
-2. **height:** altura do box de venda de ingressos
-3. **size:** tamanho do botão
-4. **label:** título do botão
+### Box de Venda de Ingressos
+
+	* **width:** largura do box
+	* **height:** altura do box
+
+### Botão
+
+	* **size:** tamanho do botão
+	* **label:** título do botão
 
 Para maiores informações, leia o [http://developer.eventick.com.br/integracao](Guia de Integração do Eventick).
