@@ -60,4 +60,7 @@ Exemplo:
 
 Leia o [Guia de Integração do Eventick](http://developer.eventick.com.br/integracao).
 
-Envie sugestões de melhorias pelos comentários.
+### Dúvidas, sugestões ou bugs? Fale Comigo.
+
+Twitter: [@castroalves](http://twitter.com/castroalves)
+Facebook: http://facebook.com/cadudecastroalves
