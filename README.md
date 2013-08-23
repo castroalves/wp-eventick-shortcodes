@@ -1,4 +1,4 @@
-WordPress Eventick Shortodes
+WordPress Eventick Shortcodes
 ======================
 
 Integre o Eventick em seu site WordPress e venda ingressos online!
