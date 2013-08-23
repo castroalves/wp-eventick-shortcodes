@@ -62,5 +62,5 @@ Leia o [Guia de Integração do Eventick](http://developer.eventick.com.br/integ
 
 ### Dúvidas, sugestões ou bugs? Fale Comigo.
 
-Twitter: [@castroalves](http://twitter.com/castroalves)
+Twitter: [@castroalves](http://twitter.com/castroalves)<br />
 Facebook: http://facebook.com/cadudecastroalves
