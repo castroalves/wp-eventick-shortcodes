@@ -10,8 +10,23 @@ Integre o Eventick em seu site WordPress e venda ingressos online!
 ## Como Adicionar o Shortcode
 Na página de edição de posts ou páginas, adicione o código a seguir:
 
-	[eventick url="http://eventick.com.br/nome-de-seu-evento"]
+	[eventick url="http://eventick.com.br/seu-evento"]
 
-Substitua `nome-de-seu-evento` pelo slug que o Eventick gerou para seu evento.
+Substitua `seu-evento` pelo slug que o Eventick gerou para seu evento.
 
-	
+## Adicionando o botão do Eventick
+
+	[eventick url="http://eventick.com.br/seu-evento" type="button"]
+
+## Adicionando a venda de ingressos do Eventick
+
+	[eventick url="http://eventick.com.br/seu-evento" type="tickets"]
+
+## Configurações disponíveis
+
+	width => largura do box de venda de ingressos
+	height => altura do box de venda de ingressos
+	size => tamanho do botão
+	label => título do botão
+
+Para maiores informações, leia o [http://developer.eventick.com.br/integracao](Guia de Integração do Eventick).
