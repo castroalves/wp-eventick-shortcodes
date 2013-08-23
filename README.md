@@ -24,9 +24,9 @@ Substitua `seu-evento` pelo slug que o Eventick gerou para seu evento.
 
 ## Configurações disponíveis
 
-	width => largura do box de venda de ingressos
-	height => altura do box de venda de ingressos
-	size => tamanho do botão
-	label => título do botão
+1. **width:** largura do box de venda de ingressos
+2. **height:** altura do box de venda de ingressos
+3. **size:** tamanho do botão
+4. **label:** título do botão
 
 Para maiores informações, leia o [http://developer.eventick.com.br/integracao](Guia de Integração do Eventick).
