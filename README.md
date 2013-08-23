@@ -26,8 +26,8 @@ Substitua `seu-evento` pelo slug que o Eventick gerou para seu evento.
 
 ### Gerais
 
-- **url:** URL de seu evento. Valor padrão: `tickets`
-- **type:** tipo de integração
+- **url:** URL de seu evento. Este atributo é **obrigatório**.
+- **type:** tipo de integração. Valor padrão: `tickets`.
     - **button:** botão de venda
     - **tickets:** box de venda de ingressos
 
